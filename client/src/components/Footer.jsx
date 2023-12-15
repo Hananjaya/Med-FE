@@ -7,7 +7,7 @@ const Footer = () => {
 		<Container>
 			<div className="d-flex flex-row ps-5 pt-4">
 				<img src={medify} alt="Medify" style={{ height: "3rem", marginRight: "0.5rem" }}/>
-      	<span style={{ marginTop: "5px", fontSize: "1.5rem", fontWeight: "400" }}>Medify</span>
+      			<span style={{ marginTop: "5px", fontSize: "1.5rem", fontWeight: "400" }}>Medify</span>
 			</div>
 			<div class="footer" className="px-5 py-2">
 				<Row>
